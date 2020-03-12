@@ -1,0 +1,2 @@
+2020-03-06T04:24:39+00:00 CRITICAL Allowed memory size of 536870912 bytes exhausted (tried to allocate 228864528 bytes) in C:\xampp\htdocs\huyhoang\wp-includes\class-wp-image-editor-gd.php on line 96
+
